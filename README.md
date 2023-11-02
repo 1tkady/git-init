@@ -16,8 +16,7 @@ Damit man sieht welche Veraenderungen zwischen dem Arbeitsverzeichnis und dem le
 ## How do you create a patch with 'git diff'?
 git format-patch <branch> <options>
 
-&nbsp; 
-
+## Bulletliste
 - 1
 - 2
 - 3
